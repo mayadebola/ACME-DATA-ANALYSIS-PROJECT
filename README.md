@@ -1,5 +1,7 @@
-REFERENCES OF SQL QUERIES AND EXPLANATION OF LOGIC USED
-Description of the database schema and tables used.
+## REFERENCES OF SQL QUERIES AND EXPLANATION OF LOGIC USED
+
+## Description of the database schema and tables used.
+
 The table in the database schema represents distinct features of the data, and it contains comprehensive information on different smartphone models. The table is intended to store and manage smartphone data.
 
 Table Name: smartphone_cleaned
